@@ -19,6 +19,7 @@ Data includes monthly electricity sales across multiple states and sectors (resi
 
 Initial raw datasets were accessed manually and through API documentation provided by EIA.
 
+
 2. 🧹 Data Preprocessing
 Loaded and cleaned using pandas in Google Colab.
 
@@ -32,6 +33,7 @@ Encoding categorical features (e.g., sector and region IDs).
 
 Feature engineering (e.g., extracting month).
 
+
 3. 📊 Exploratory Data Analysis
 Visualizations generated with Matplotlib and Seaborn to uncover:
 
@@ -40,6 +42,7 @@ Top-performing regions and sectors by sales.
 Temporal sales patterns.
 
 Summary statistics were computed to support insights.
+
 
 4. 🧠 Model Building
 Trained a Random Forest Regressor using the cleaned dataset.
@@ -59,8 +62,10 @@ RMSE: 2289.27
 
 Performance metrics were computed using Scikit-learn.
 
+
 6. 📦 Model Serialization
 Final model exported using joblib and saved as model.joblib.
+
 
 7. 🌐 Web App Deployment
 Interactive app built using Streamlit.
