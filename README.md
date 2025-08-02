@@ -70,8 +70,10 @@ RMSE: 2289.27
 Performance metrics were computed using Scikit-learn.
 
 
+
 6. 📦 Model Serialization
 Final model exported using joblib and saved as model.joblib.
+
 
 
 7. 🌐 Web App Deployment
