@@ -37,11 +37,14 @@ Feature engineering (e.g., extracting month).
 3. 📊 Exploratory Data Analysis
 Visualizations generated with Matplotlib and Seaborn to uncover:
 
-Top-performing regions and sectors by sales.
+Top-performing sectors by sales.
+<img width="516" height="293" alt="image" src="https://github.com/user-attachments/assets/29bb9ffe-b967-4a57-97b4-59cd32e025ad" />
 
-Temporal sales patterns.
+Top-performing regions by sales.
+<img width="654" height="344" alt="image" src="https://github.com/user-attachments/assets/89683a53-580e-4315-af4d-feb31a3a20d1" />
 
-Summary statistics were computed to support insights.
+Temporal sales patterns VS price.
+<img width="407" height="274" alt="image" src="https://github.com/user-attachments/assets/b1dee5e9-b23e-411f-ba6c-137cc24e5c47" />
 
 
 4. 🧠 Model Building
